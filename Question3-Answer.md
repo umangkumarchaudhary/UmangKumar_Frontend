@@ -97,9 +97,3 @@ export default List;
 
 Overall, these changes improve performance by reducing unnecessary function calls and rendering, and simplify the code by removing unnecessary components and simplifying the `useEffect` hook.
 
-### ⚡Output running of the code with no errors/warnings:-
-
-![image](https://www.flickr.com/photos/198168309@N04/52838654758/in/dateposted-public/)
-
-The background color changes to orange on clicking any item:<br><br>
-![image](https://www.flickr.com/photos/198168309@N04/52838208296/in/dateposted-public/)
